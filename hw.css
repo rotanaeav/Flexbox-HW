@@ -1,0 +1,209 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, sans-serif;
+}
+.d-flex {
+  display: flex;
+}
+.f-col {
+  flex-direction: column;
+}
+.f-wr {
+  flex-wrap: wrap;
+}
+.jus-c-cen {
+  justify-content: center;
+}
+.jus-sb {
+  justify-content: space-between;
+}
+.jus-i-cen .al-c-cen {
+  align-content: center;
+}
+.al-i-cen {
+  align-items: center;
+}
+.gap {
+  gap: 1rem;
+}
+.gap5 {
+  gap: 0.5rem;
+}
+.gap20 {
+  gap: 20px;
+}
+
+/* img */
+.w-full {
+  width: 100%;
+}
+.w-full-static {
+  width: 1300px;
+}
+.w-card {
+  width: 300px;
+}
+.w-i {
+  width: 20px;
+}
+
+.h-img {
+  height: 225px;
+}
+
+.h-sta {
+  height: 470px;
+}
+.h100 {
+  height: 100vh;
+}
+/* color */
+.bg0 {
+  background: none;
+}
+.bg-purple {
+  background-color: #6f42c13a;
+}
+.bg-ws {
+  background-color: whitesmoke;
+}
+.bg-w {
+  background-color: white;
+}
+.bg-gr {
+  background-color: #7475792a;
+}
+.bg-lb {
+  background-color: #e8f1ff;
+}
+.bg-b {
+  background-color: #376dcc;
+}
+.bg-green {
+  background-color: #c4f1de6a;
+}
+.green {
+  color: #53ba92;
+}
+.b {
+  color: #376dcc;
+}
+.wh {
+  color: white;
+}
+.purple {
+  color: #6f42c1;
+}
+.black {
+  color: black;
+}
+.grey {
+  color: #747579;
+}
+.gold {
+  color: gold;
+}
+.dark {
+  color: #24292d;
+}
+.d-red {
+  color: rgb(211, 2, 2);
+}
+.orange {
+  color: orange;
+}
+
+/* padding */
+.pad-LR-20 {
+  padding: 0 20px 0;
+}
+.pad-T-1r {
+  padding-top: 1rem;
+}
+.pad-lv {
+  padding: 3px 0.5rem;
+}
+.p1 {
+  padding: 1rem 0;
+}
+.p1r8 {
+  padding: 1rem 1.8rem;
+}
+.p7r {
+  padding: 0.7rem 0;
+}
+
+/* magin */
+.m-d {
+  margin-bottom: 0.7rem;
+}
+.m1-20 {
+  margin: 1rem 20px;
+}
+.m2 {
+  margin: 2rem 0;
+}
+.m-a {
+  margin: auto;
+}
+/* border */
+.bdr5 {
+  border-radius: 5px;
+}
+.bdr10 {
+  border-radius: 10px;
+}
+.o-hide {
+  overflow: hidden;
+}
+.bd0 {
+  border: none;
+}
+.bd {
+  box-shadow: #7475792a 0 0 40px 30px;
+}
+
+/* fontsize */
+.fnt8 {
+  font-size: 0.8rem;
+}
+.fnt9 {
+  font-size: 0.9rem;
+}
+.fnt-heebo {
+  font-family: "Heebo", sans-serif;
+}
+.f3r {
+  font-size: 3rem;
+}
+.f12 {
+  font-size: 1.2rem;
+}
+.f13 {
+  font-size: 1.3rem;
+}
+.t-dec {
+  text-decoration: none;
+}
+.tc {
+  text-align: center;
+}
+.point {
+  cursor: pointer;
+}
+.hvbl:hover {
+  background-color: #376dcc;
+  color: white;
+}
+.hvw:hover {
+  background: none;
+  color: #376dcc;
+}
+.hvh:hover {
+  color: #376dcc;
+}
+
+.min {
+  min-width: 1250px;
+}
